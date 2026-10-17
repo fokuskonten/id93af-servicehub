@@ -1,0 +1,27 @@
+================================================================================
+INFORMASI AKUN LOGIN & PANDUAN PENGGUNAAN RESMI
+Aplikasi   : ServiceHub (Software Kasir Servis HP Laptop Komputer Dan Cek Nota Garansi)
+SKU        : ID93AF
+Penerbit   : FokusKonten Official (https://fokuskonten.my.id)
+Bantuan WA : +62 851-8301-1318
+================================================================================
+
+1. CARA MENJALANKAN APLIKASI
+--------------------------------------------------------------------------------
+- Pemasangan Baru  : Dobel-klik 'SETUP_OTOMATIS.bat'
+- Buka Aplikasi    : Dobel-klik 'BUKA_APLIKASI.bat'
+- Akses Peramban   : http://localhost/servicehub/
+
+2. KREDENSIAL AKUN LOGIN RESMI
+--------------------------------------------------------------------------------
+Akun [1]:
+   - Username / User : admin
+   - Password / Sandi: admin
+
+3. KONEKSI BASIS DATA (DATABASE)
+--------------------------------------------------------------------------------
+- Database : service_repair_db
+- Host     : 127.0.0.1 (Port: 3306)
+- User     : root
+- Password : (Kosong/Tanpa password)
+================================================================================

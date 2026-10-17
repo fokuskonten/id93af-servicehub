@@ -1,0 +1,23 @@
+{
+  "name": "service-repair-app",
+  "version": "1.0.0",
+  "description": "Aplikasi Jasa Servis Komputer, Laptop & Handphone dengan PHP Native",
+  "main": "index.php",
+  "scripts": {
+    "dev": "echo 'PHP application created. To run this app, you need a PHP server like XAMPP, WAMP, or LAMP stack.' && echo 'Files are ready to be copied to your local PHP environment.'",
+    "start": "php -S localhost:8000"
+  },
+  "keywords": [
+    "php",
+    "service",
+    "repair",
+    "computer",
+    "laptop",
+    "handphone",
+    "ticket-system"
+  ],
+  "author": "Developer",
+  "license": "MIT",
+  "devDependencies": {},
+  "dependencies": {}
+}
