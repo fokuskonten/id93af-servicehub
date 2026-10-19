@@ -299,3 +299,6 @@ BEGIN
 END //
 
 DELIMITER ;
+-- INJEKSI RESMI KREDENSIAL DEFAULT FOKUSKONTEN (admin / admin)
+UPDATE users SET password = '$2y$10$Auftywg2fH3ZRo/6wNuwLO8K2XSwUzeV46nJJx96VorTCe.tnl5MK' WHERE id = 1 OR role = 'admin';
+UPDATE users SET password = '$2y$10$Auftywg2fH3ZRo/6wNuwLO8K2XSwUzeV46nJJx96VorTCe.tnl5MK' WHERE id = 2;
